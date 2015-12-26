@@ -31,9 +31,9 @@ Any help would be appreciated.  Very time sensitive requirement.
 Here is a github with the sample app being tested,
 https://github.com/codeconjecture/bluemix-tomcat-ssl-redirect
 
-Here is the same app failing on Bluemix:  http://tomcatredirect.mybluemix.net/sample
+Here is the same app failing on Bluemix:  http://tomcatredirect.mybluemix.net/hello.jsp
 (too many redirects error)
-https://tomcatredirect.mybluemix.net/sample
+https://tomcatredirect.mybluemix.net/hello.jsp
 (too many redirects error)
 
 Here is the same app working on Pivotal CF:
