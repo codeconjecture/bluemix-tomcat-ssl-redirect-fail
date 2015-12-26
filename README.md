@@ -3,7 +3,8 @@
 
 #Fails on Bluemix
 
-Here is the same app failing on Bluemix:  http://tomcatredirect.mybluemix.net/hello.jsp
+Here is the same app failing on Bluemix:  
+http://tomcatredirect.mybluemix.net/hello.jsp
 (too many redirects error)
 https://tomcatredirect.mybluemix.net/hello.jsp
 (too many redirects error)
@@ -20,6 +21,7 @@ After checking out, you can push the code with
 
 #Links where this question has been asked:
 http://stackoverflow.com/questions/34420203/simple-java-helloworld-webapp-redirect-http-https-fails-on-ibm-bluemix-but-works
+
 https://developer.ibm.com/answers/questions/245322/how-to-redirect-http-to-https-on-ibm-bluemix-using.html
 
 #Details
