@@ -45,3 +45,6 @@ https://tomcatredirect.cfapps.io/hello.jsp
 After checking out, you can push the code with
     cf push <testappname> -p test.war -b https://github.com/cloudfoundry/java-buildpack
 
+Links where this question has been asked:
+http://stackoverflow.com/questions/34420203/simple-java-helloworld-webapp-redirect-http-https-fails-on-ibm-bluemix-but-works
+https://developer.ibm.com/answers/questions/245322/how-to-redirect-http-to-https-on-ibm-bluemix-using.html
