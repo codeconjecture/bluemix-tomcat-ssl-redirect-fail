@@ -1,7 +1,7 @@
 
 #Tomcat 8 Hello World with global HTTP -> HTTPS redirect
 
-#Fails on Bluemix
+#Fails on IBM Bluemix
 
 Here is the same app failing on Bluemix:  
 http://tomcatredirect.mybluemix.net/hello.jsp
@@ -9,7 +9,7 @@ http://tomcatredirect.mybluemix.net/hello.jsp
 https://tomcatredirect.mybluemix.net/hello.jsp
 (too many redirects error)
 
-#Works on Bluemix
+#Works on Pivotal CF
 
 http://tomcatredirect.cfapps.io/hello.jsp
 (redirect to https)
