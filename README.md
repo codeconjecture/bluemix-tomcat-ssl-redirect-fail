@@ -43,5 +43,5 @@ https://tomcatredirect.cfapps.io/hello.jsp
 (works on https)
 
 After checking out, you can push the code with
-    cf push cf push <testappname> -p test.war -b https://github.com/cloudfoundry/java-buildpack
+    cf push <testappname> -p test.war -b https://github.com/cloudfoundry/java-buildpack
 
